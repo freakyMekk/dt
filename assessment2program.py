@@ -8,6 +8,7 @@ global Running
 Western = False
 Chinese = False
 Running = True
+
 def western():
     Western = True
     while Western == True:
